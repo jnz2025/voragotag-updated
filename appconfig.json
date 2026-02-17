@@ -3,11 +3,14 @@
 	"description": "Updated Vorago tag tool",
 	"appUrl": "./",
 	"configUrl": "./appconfig.json",
+	"iconUrl": "images/vorago.png",
 	"defaultWidth": 100,
 	"defaultHeight": 50,
 	"minWidth": 50,
 	"minHeight": 20,
 	"maxWidth": 400,
 	"maxHeight": 500,
-	"permissions": "overlay,pixel,gamestate"
+	"requestHandlers": [ ],
+	"activators": [ ],
+	"permissions": "ff  overlay,pixel,gamestate"
 }
