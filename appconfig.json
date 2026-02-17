@@ -1,7 +1,7 @@
 {
 	"appName": "Vorago Tag Updated",
 	"description": "Updated Vorago tag tool",
-	"appUrl": "./",
+	"appUrl": "./index.html",
 	"configUrl": "./appconfig.json",
 	"iconUrl": "images/vorago.png",
 	"defaultWidth": 100,
@@ -14,3 +14,4 @@
 	"activators": [ ],
 	"permissions": "ff  overlay,pixel,gamestate"
 }
+
